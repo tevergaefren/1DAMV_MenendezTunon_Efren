@@ -1,4 +1,4 @@
-# Ejercicio 01 nivel 1
+# Ejercicio 01
 ## *¿Qué es un programa informático?*
 Se trata de una secuencia ordenada de instrucciones, realizada para resolver un "problema" o para realizar una tarea especifica, y orientada para ser ejecutada por un ordenador.
 
