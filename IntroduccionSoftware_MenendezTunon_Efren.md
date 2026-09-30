@@ -4,12 +4,19 @@ Se trata de una secuencia ordenada de instrucciones, realizada para resolver un 
 
 ## *Diferencia entre código fuente, código objeto y código ejecutable.*
 ### _Código fuente_
+## Bloque de texto
 	Se trata de un texto plano que escribe un programador, empleando para ello un lenguaje de programación de alto nivel. Lo entienden los programadores y las herramientas de desarrollo, no puede ser ejecutado por la CPU directamente. Las extensiones típicas son .jav, .cpp, .py, .c.
 ### _Código objeto_
+## Bloque de texto
 	Se trata del código resultante de pasar el código fuente por e compilador, este traduce el lenguaje de alto nivel a código binario (o de bajo nivel), pero este aún no se puede ejecutar, esta incompleto. Contiene las instrucciones del archivo, pero le faltan los enlaces a las librerías del sistema o a otros archivos del proyecto que el programa necesita para funcionar. Las extensiones típicas son .obj (Windows) o .o (Linux)
 ### _Código ejecutable_
+## Bloque de texto
 	Es el "producto" final. Se obtiene utilizando una herramienta llamada enlazador (linker), une el código objeto con las librerías externas y los otros archivos del proyecto necesarios para funcionar. Este ya es "entendido" por el sistema operativo y la CPU, que puede cargarlo en la memoria RAM y ejecutarlo. Las extensiones típicas son .exe (Windows).
-	
+
+
+[Referencias 1] (https://www.studocu.com/es/document/instituto-de-educacion-secundaria-poligono-sur/matematicas-ii/13codigos-fuente-objeto-y-ejecutable/104853597?sid=f0645aa9-28b8-494e-8374-7a619f7f98b41790785437)
+[Referencia 2](https://prezi.com/cqq7pc8xhy45/coodigo-fuente-codigo-objeto-y-codigo-ejecutable/)
+
 ## Etapas del desarrollo del software.
 Hay 6 etapas fundamentales del desarrollo de software
 ### Lista ordenada
@@ -26,6 +33,8 @@ Hay 6 etapas fundamentales del desarrollo de software
 1. *Mantenimiento y evolución*
 	Es la última etapa del ciclo, la más larga. Consiste en corregir errores, adaptar el sistema a nuevos sistemas operativos y añadir nuevas funcionalidades que vaya pidiendo el cliente. Esta es la fase de actualizaciones, parches y nuevas versiones del software.
 
+[Referencia 3](https://www.microsoft.com/es-es/power-platform/topics/phases-of-the-software-development-lifecycle)
+[Referencia 4] (https://intelequia.com/es/blog/post/ciclo-de-vida-del-software-todo-lo-que-necesitas-saber)
 
 ![viedojuegos](images/videojuegos.jpg)
 
