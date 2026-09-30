@@ -3,7 +3,7 @@
 Se trata de una secuencia ordenada de instrucciones, realizada para resolver un "problema" o para realizar una tarea especifica, y orientada para ser ejecutada por un ordenador.
 
 ## *Diferencia entre código fuente, código objeto y código ejecutable.*
-### Lista sin ordernar
+###
 - _Código fuente_
 
 	Se trata de un texto plano que escribe un programador, empleando para ello un lenguaje de programación de alto nivel. Lo entienden los programadores y las herramientas de desarrollo, no puede ser ejecutado por la CPU directamente. Las extensiones típicas son .jav, .cpp, .py, .c.
@@ -19,7 +19,7 @@ Se trata de una secuencia ordenada de instrucciones, realizada para resolver un 
 
 ## Etapas del desarrollo del software.
 Hay 6 etapas fundamentales del desarrollo de software
-### Lista ordenada
+###
 1. *Planificación y análisis de Requisitos*
 	Es el punto en el que se define que debe hacer el software, se ven las necesidades y se redacta la ERS (Especificación de Requisitos del Software). De aquí obtenemos un documento con los requisitos funcionales (lo que hace el sistema) y no funcionales (rendimiento, seguridad)
 1. *Diseño de la Arquitectura*
