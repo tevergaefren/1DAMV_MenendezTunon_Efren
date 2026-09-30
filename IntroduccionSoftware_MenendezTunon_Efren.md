@@ -26,6 +26,6 @@ Hay 6 etapas fundamentales del desarrollo de software
 1. *Mantenimiento y evolución*
 	Es la última etapa del ciclo, la más larga. Consiste en corregir errores, adaptar el sistema a nuevos sistemas operativos y añadir nuevas funcionalidades que vaya pidiendo el cliente. Esta es la fase de actualizaciones, parches y nuevas versiones del software.
 
-![pacMan]("Images\pacMan.jpeg")
+![pacMan]("images\pacMan.jpeg")
 
 [enlace al repositorio Efren] (https://github.com/tevergaefren/1DAMV_MenendezTunon_Efren.git)
